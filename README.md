@@ -1,2 +1,4 @@
 # hello-world
-"Hello World" programm
+"Hello World" Programm
+
+Ein erster Versuch
